@@ -9,9 +9,12 @@ Credit card usage behavior is an essential indicator for banking and marketing s
 This project utilizes historical credit and debit transaction data, personal demographics, loan activities, and investment behavior to predict future credit card spending.
 
 ## 📦 Dataset Used
-1. <a href="https://github.com/SourabhaSekharRout/Predict-Credit-Consumption-of-Customer-For-Leading-Bank/blob/main/CustomerDemographics.xlsx">CustomerDemographics</a> – Includes account details, customer demographic features, tenure, and digital behavior.
-2. <a href="https://github.com/SourabhaSekharRout/Predict-Credit-Consumption-of-Customer-For-Leading-Bank/blob/main/CustomerBehaviorData.xlsx">CustomerBehaviorData</a> – Contains transactional and financial product behavior including card usage, loan activities, and investments.
-3. <a href="https://github.com/SourabhaSekharRout/Predict-Credit-Consumption-of-Customer-For-Leading-Bank/blob/main/CreditConsumptionData.xlsx">CreditConsumptionData</a> – Contains the target variable `cc_cons`, which is the average credit card consumption in the upcoming 3 months.
+1. <a href="https://github.com/SourabhaSekharRout/Predict-Credit-Consumption-of-Customer-For-Leading-Bank/blob/main/CustomerDemographics.xlsx">CustomerDemographics</a>
+– Includes account details, customer demographic features, tenure, and digital behavior.
+2. <a href="https://github.com/SourabhaSekharRout/Predict-Credit-Consumption-of-Customer-For-Leading-Bank/blob/main/CustomerBehaviorData.xlsx">CustomerBehaviorData</a>
+– Contains transactional and financial product behavior including card usage, loan activities, and investments.
+3. <a href="https://github.com/SourabhaSekharRout/Predict-Credit-Consumption-of-Customer-For-Leading-Bank/blob/main/CreditConsumptionData.xlsx">CreditConsumptionData</a>
+– Contains the target variable `cc_cons`, which is the average credit card consumption in the upcoming 3 months.
 
 ## ❓ Questions Addressed
 - Which customer demographics and behaviors influence credit card consumption?
